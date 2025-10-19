@@ -47,16 +47,14 @@ I’m a passionate learner who loves exploring technology, coding, and problem-s
 ## ✨ Goals  
 - [x] Create my first GitHub profile README  
 - [x] Learn Markdown formatting  
-- [ ] Build a full-stack web app  
-- [ ] Contribute to open source  
-- [ ] Master data science  
+- [x] Build a full-stack web app  
+- [x] Contribute to open source  
+- [x] Master data science  
 
 ---
 
 ##  Contact Me  
-- 📧 **Email:** [laibabutt123@example.com](mailto:li4673685@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/laiba-butt](https://linkedin.com/in/laiba-butt)  
-- 🌍 **Portfolio:** [laibabutt.github.io](https://laibabutt.github.io) 
+- 📧 **Email:** [laibabutt123@example.com](mailto:li4673685@gmail.com) 
 
 ---
 
