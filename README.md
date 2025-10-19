@@ -19,7 +19,7 @@ Hello there, I'm **Laiba Butt**
 # About Me  
 **Full Name:** Laiba Butt  
 **University:** University of the Punjab  
-**Department:** Computer Science  
+**Department:** Data Science  
 
 I’m a passionate learner who loves exploring technology, coding, and problem-solving. I enjoy learning new tools and languages to create meaningful digital solutions. My goal is to become a skilled software developer and inspire others to code.  
 
