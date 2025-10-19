@@ -53,7 +53,7 @@ https://github.com/laibaimran180803/my-first-repo
 ---
 
 ##  Contact Me  
-- 📧 **Email:** [laibabutt123@example.com](mailto:li4673685@gmail.com) 
+- 📧 **Email:** [mailto:li4673685@gmail.com] 
 
 ---
 
